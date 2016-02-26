@@ -1,0 +1,1 @@
+# flux_rails_tutorial
